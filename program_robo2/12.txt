@@ -1,0 +1,14 @@
+
+Pump, cold, fPolivZero, bWindOpen1, bWindOpen2, bWindOpen3, bWindOpen4, bWindClose1, bWindClose2, bWindClose3, bWindClose4
+
+
+ // Управление окнами *3*
+  	bWindOpen1:=awData[0].11;
+	bWindClose1:=awData[0].12;
+	bWindOpen2:=awData[0].13;
+	bWindClose2:=awData[0].14;
+	bWindOpen3:=awData[0].15;
+	bWindClose3:=awData[1].0;
+	bWindOpen4:=awData[0].15;
+	bWindClose4:=awData[1].0;
+  // Управление окнами *3*
